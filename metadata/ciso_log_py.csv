@@ -2907,3 +2907,7 @@ index,parent,subba,time,start,end,start_act,end_act,start_match,end_match,n_obs,
 727,CISO,SCE,2024-07-26 16:03:46.926434+00:00,2024-07-26 08:00:00,2024-07-26 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
 727,CISO,SDGE,2024-07-26 16:03:46.928010+00:00,2024-07-26 08:00:00,2024-07-26 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
 727,CISO,VEA,2024-07-26 16:03:46.929365+00:00,2024-07-26 08:00:00,2024-07-26 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
+728,CISO,PGAE,2024-07-26 17:03:01.710076+00:00,2024-07-26 08:00:00,2024-07-26 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
+728,CISO,SCE,2024-07-26 17:03:01.711073+00:00,2024-07-26 08:00:00,2024-07-26 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
+728,CISO,SDGE,2024-07-26 17:03:01.712725+00:00,2024-07-26 08:00:00,2024-07-26 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
+728,CISO,VEA,2024-07-26 17:03:01.714198+00:00,2024-07-26 08:00:00,2024-07-26 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
