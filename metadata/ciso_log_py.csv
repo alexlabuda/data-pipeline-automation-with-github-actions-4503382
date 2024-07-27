@@ -2995,3 +2995,7 @@ index,parent,subba,time,start,end,start_act,end_act,start_match,end_match,n_obs,
 749,CISO,SCE,2024-07-27 14:03:11.739476+00:00,2024-07-26 08:00:00,2024-07-26 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
 749,CISO,SDGE,2024-07-27 14:03:11.741230+00:00,2024-07-26 08:00:00,2024-07-26 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
 749,CISO,VEA,2024-07-27 14:03:11.742775+00:00,2024-07-26 08:00:00,2024-07-26 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
+750,CISO,PGAE,2024-07-27 15:03:19.882509+00:00,2024-07-26 08:00:00,2024-07-27 07:00:00,2024-07-26 08:00:00,2024-07-27 07:00:00,True,True,24.0,0.0,refresh,True,True,
+750,CISO,SCE,2024-07-27 15:03:21.185824+00:00,2024-07-26 08:00:00,2024-07-27 07:00:00,2024-07-26 08:00:00,2024-07-27 07:00:00,True,True,24.0,0.0,refresh,True,True,
+750,CISO,SDGE,2024-07-27 15:03:22.530618+00:00,2024-07-26 08:00:00,2024-07-27 07:00:00,2024-07-26 08:00:00,2024-07-27 07:00:00,True,True,24.0,0.0,refresh,True,True,
+750,CISO,VEA,2024-07-27 15:03:23.952581+00:00,2024-07-26 08:00:00,2024-07-27 07:00:00,2024-07-26 08:00:00,2024-07-27 07:00:00,True,True,24.0,0.0,refresh,True,True,
