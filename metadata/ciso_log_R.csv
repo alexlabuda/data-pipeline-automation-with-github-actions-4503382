@@ -3583,7 +3583,11 @@
 896,"CISO","SCE",2024-08-02 15:03:21.661134,2024-08-01 08:00:00,2024-08-02 07:00:00,2024-08-01 08:00:00,2024-08-02 07:00:00,TRUE,TRUE,24,0,"refresh",TRUE,TRUE,NA
 896,"CISO","SDGE",2024-08-02 15:03:25.63929,2024-08-01 08:00:00,2024-08-02 07:00:00,2024-08-01 08:00:00,2024-08-02 07:00:00,TRUE,TRUE,24,0,"refresh",TRUE,TRUE,NA
 896,"CISO","VEA",2024-08-02 15:03:27.495775,2024-08-01 08:00:00,2024-08-02 07:00:00,2024-08-01 08:00:00,2024-08-02 07:00:00,TRUE,TRUE,24,0,"refresh",TRUE,TRUE,NA
-897,"CISO","PGAE",2024-08-02 17:03:15.34187,2024-08-02 08:00:00,2024-08-02 07:00:00,NA,NA,NA,NA,NA,NA,"refresh",FALSE,FALSE,"No new data is available; The data refresh failed, please check the log; "
-897,"CISO","SCE",2024-08-02 17:03:15.343243,2024-08-02 08:00:00,2024-08-02 07:00:00,NA,NA,NA,NA,NA,NA,"refresh",FALSE,FALSE,"No new data is available; The data refresh failed, please check the log; "
-897,"CISO","SDGE",2024-08-02 17:03:15.344365,2024-08-02 08:00:00,2024-08-02 07:00:00,NA,NA,NA,NA,NA,NA,"refresh",FALSE,FALSE,"No new data is available; The data refresh failed, please check the log; "
-897,"CISO","VEA",2024-08-02 17:03:15.345475,2024-08-02 08:00:00,2024-08-02 07:00:00,NA,NA,NA,NA,NA,NA,"refresh",FALSE,FALSE,"No new data is available; The data refresh failed, please check the log; "
+897,"CISO","PGAE",2024-08-02 17:03:15.34187,2024-08-02 08:00:00,2024-08-02 07:00:00,NA,NA,NA,NA,NA,NA,"refresh",FALSE,FALSE,"No new data is available; The data refresh failed, please check the log;"
+897,"CISO","SCE",2024-08-02 17:03:15.343243,2024-08-02 08:00:00,2024-08-02 07:00:00,NA,NA,NA,NA,NA,NA,"refresh",FALSE,FALSE,"No new data is available; The data refresh failed, please check the log;"
+897,"CISO","SDGE",2024-08-02 17:03:15.344365,2024-08-02 08:00:00,2024-08-02 07:00:00,NA,NA,NA,NA,NA,NA,"refresh",FALSE,FALSE,"No new data is available; The data refresh failed, please check the log;"
+897,"CISO","VEA",2024-08-02 17:03:15.345475,2024-08-02 08:00:00,2024-08-02 07:00:00,NA,NA,NA,NA,NA,NA,"refresh",FALSE,FALSE,"No new data is available; The data refresh failed, please check the log;"
+898,"CISO","PGAE",2024-08-02 18:03:03.43376,2024-08-02 08:00:00,2024-08-02 07:00:00,NA,NA,NA,NA,NA,NA,"refresh",FALSE,FALSE,"No new data is available; The data refresh failed, please check the log; "
+898,"CISO","SCE",2024-08-02 18:03:03.435254,2024-08-02 08:00:00,2024-08-02 07:00:00,NA,NA,NA,NA,NA,NA,"refresh",FALSE,FALSE,"No new data is available; The data refresh failed, please check the log; "
+898,"CISO","SDGE",2024-08-02 18:03:03.436488,2024-08-02 08:00:00,2024-08-02 07:00:00,NA,NA,NA,NA,NA,NA,"refresh",FALSE,FALSE,"No new data is available; The data refresh failed, please check the log; "
+898,"CISO","VEA",2024-08-02 18:03:03.43766,2024-08-02 08:00:00,2024-08-02 07:00:00,NA,NA,NA,NA,NA,NA,"refresh",FALSE,FALSE,"No new data is available; The data refresh failed, please check the log; "
